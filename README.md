@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 💼 Software Developer at [Picpay](https://picpay.com)
+- 🌱 I’m currently learning backend things
+- 💬 Ask me about PHP and backend development
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lukkaslima/), [Website/Blog](https://lukkaslima.com)
+
+### Links
+
+- [lukkaslima.com](https://lukkaslima.com) - My personal website and blog
