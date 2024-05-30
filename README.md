@@ -1,10 +1,7 @@
 ### Hi there 👋
 
 - 💼 Software Developer at [Picpay](https://picpay.com)
-- 🌱 I’m currently learning backend things
-- 💬 Ask me about PHP and backend development
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lukkaslima/), [Website/Blog](https://lukkaslima.com)
-- 👯 I’m looking to collaborate on php document translation to portuguese 
 
 ### Links
 
