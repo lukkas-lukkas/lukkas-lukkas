@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💼 Software Developer at [Picpay](https://picpay.com)
+- 💼 Senior Software Developer at [2am.tech](https://www.2am.tech/)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lukkaslima/), [Website/Blog](https://lukkaslima.com)
 
 ### Links
