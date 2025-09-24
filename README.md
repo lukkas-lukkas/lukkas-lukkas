@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💼 Senior Software Developer at [2am.tech](https://www.2am.tech/)
+- 💼 Backend Developer at [Entermotion](https://entermotion.com/)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lukkaslima/), [Website/Blog](https://lukkaslima.com)
 
 ### Links
